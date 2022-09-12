@@ -1,2 +1,2 @@
 # webset
-https://github.com/wahyulalu22/webset/index.php
+https://github.com/wahyulalu22/webset/regiatrasi.php
